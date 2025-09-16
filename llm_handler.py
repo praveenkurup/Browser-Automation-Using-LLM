@@ -62,9 +62,9 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # -- Config --
-MODEL_NAME = "gpt-4.1-nano"
+MODEL_NAME = os.getenv("model")
 CHROME_USER_DATA = os.path.join(os.getcwd(), "/profile")
-BROWSER_START_URL = "https://google.com"
+BROWSER_START_URL = os.getenv("start_url")
 
 # --- Init ---
 prompt_history = []
