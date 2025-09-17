@@ -15,7 +15,7 @@ import keyboard
 import io
 
 
-ERROR_THRESHOLD = 6
+ERROR_THRESHOLD = os.getenv("ERROR_THRESHOLD")
 error_sound = "./sound effects/error.wav"
 sucess_sound = "./sound effects/success.wav"
 step_sucess_sound = "./sound effects/step_success.wav"
