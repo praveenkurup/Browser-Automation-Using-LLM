@@ -1,4 +1,4 @@
-<h1 style="border: none;">Browser Automation using LLM</h1>
+<h1 style="border: none; text-decoration: none;">Browser Automation using LLM</h1>
 
 
 ## 🚀 Overview
