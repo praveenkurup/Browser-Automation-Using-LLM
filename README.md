@@ -40,7 +40,7 @@ Configuration files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/browser-automation-using-llm.git
+   git clone https://github.com/username/browser-automation-using-llm.git](https://github.com/praveenkurup/Browser-Automation-Using-LLM.git
    ```
 2. Navigate into the project directory:
    ```bash
