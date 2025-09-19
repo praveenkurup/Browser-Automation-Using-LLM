@@ -79,7 +79,7 @@ Contributions are welcome! This is designed as a core framework that others can 
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## Citation / Publication
+## 📝 Citation / Publication
 
 If you use this project in your work, please cite:
 
