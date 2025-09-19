@@ -79,6 +79,12 @@ Contributions are welcome! This is designed as a core framework that others can 
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+## Citation / Publication
+
+If you use this project in your work, please cite:
+
+Praveen Kurup. (2025). Browser Automation using LLM. Zenodo. [https://doi.org/10.5281/zenodo.17157533](https://doi.org/10.5281/zenodo.17157533)
+
 ## 📬 Contact
 
 For questions or feedback, reach out via email: [username.praveen.email@gmail.com](mailto:username.praveen.email@gmail.com)
